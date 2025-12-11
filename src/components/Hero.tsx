@@ -23,14 +23,14 @@ export default function Hero() {
             Votre Partenaire Propreté
             <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 to-cyan-300">
-              et Rénovation en France
+              et Rénovation de hottes de cuisine en France
             </span>
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-200 max-w-3xl mx-auto font-light">
-            Nettoyage professionnel et écologique sur toute la France.
+            Nettoyage professionnel et écologique de hottes de cuisine sur toute la France.
             <br />
-            Des prestations de qualité pour entreprises et particuliers.
+            Des prestations de qualité pour entreprises.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6">
