@@ -23,14 +23,14 @@ export default function Hero() {
             Votre Partenaire Propreté
             <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 to-cyan-300">
-              et Rénovation de hottes de cuisine en France
+              et Rénovation de hottes de cuisine
             </span>
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-200 max-w-3xl mx-auto font-light">
-            Nettoyage professionnel et écologique de hottes de cuisine sur toute la France.
+          L'excellence du nettoyage écologique pour vos hottes de cuisine.
             <br />
-            Des prestations de qualité pour entreprises.
+            Zone d'intervention : Île-de-France (ouverture nationale prochaine).
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6">

@@ -61,7 +61,7 @@ export default function Contact() {
                   <div>
                     <p className="text-sm text-gray-500 mb-1">Email</p>
                     <p className="text-lg font-semibold text-gray-900 group-hover:text-cyan-600 transition-colors">
-                      sas.econet@gmail.com
+                    contact@econet-services.pro
                     </p>
                   </div>
                 </a>
