@@ -30,7 +30,7 @@ export default function Hero() {
           <p className="text-xl md:text-2xl text-gray-200 max-w-3xl mx-auto font-light">
           L'excellence du nettoyage écologique pour vos hottes de cuisine.
             <br />
-            Zone d'intervention : Île-de-France (ouverture nationale prochaine).
+            <strong>Zone d'intervention : Île-de-France (ouverture nationale prochaine)</strong>
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6">
