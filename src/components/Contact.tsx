@@ -52,7 +52,7 @@ export default function Contact() {
                 </a>
 
                 <a
-                  href="mailto:sas.econet@gmail.com"
+                  href="mailto:contact@econet-services.pro"
                   className="flex items-start space-x-4 group cursor-pointer"
                 >
                   <div className="bg-cyan-100 p-3 rounded-xl group-hover:bg-cyan-200 transition-colors">

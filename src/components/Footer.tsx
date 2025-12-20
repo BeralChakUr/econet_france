@@ -92,10 +92,10 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:sas.econet@gmail.com"
+                  href="mailto:contact@econet-services.pro"
                   className="hover:text-emerald-400 transition-colors"
                 >
-                  sas.econet@gmail.com
+                  contact@econet-services.pro
                 </a>
               </li>
               <li className="text-gray-400">92400 Courbevoie, France</li>
